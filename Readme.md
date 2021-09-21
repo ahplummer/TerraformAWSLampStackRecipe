@@ -58,7 +58,7 @@ terraform plan
 ```
 * Execute.
 ```
-terraform -auto-approve
+terraform apply -auto-approve
 ```
 ## Test it
 * *Note: wait about 5 minutes, due to DNS propagation*
